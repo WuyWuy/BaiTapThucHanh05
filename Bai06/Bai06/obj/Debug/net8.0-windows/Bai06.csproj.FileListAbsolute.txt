@@ -1,0 +1,16 @@
+D:\IT008\ThucHanh\Myself\BTTL5\Bai06\Bai06\bin\Debug\net8.0-windows\Bai06.exe
+D:\IT008\ThucHanh\Myself\BTTL5\Bai06\Bai06\bin\Debug\net8.0-windows\Bai06.deps.json
+D:\IT008\ThucHanh\Myself\BTTL5\Bai06\Bai06\bin\Debug\net8.0-windows\Bai06.runtimeconfig.json
+D:\IT008\ThucHanh\Myself\BTTL5\Bai06\Bai06\bin\Debug\net8.0-windows\Bai06.dll
+D:\IT008\ThucHanh\Myself\BTTL5\Bai06\Bai06\bin\Debug\net8.0-windows\Bai06.pdb
+D:\IT008\ThucHanh\Myself\BTTL5\Bai06\Bai06\obj\Debug\net8.0-windows\Bai06.Form1.resources
+D:\IT008\ThucHanh\Myself\BTTL5\Bai06\Bai06\obj\Debug\net8.0-windows\Bai06.csproj.GenerateResource.cache
+D:\IT008\ThucHanh\Myself\BTTL5\Bai06\Bai06\obj\Debug\net8.0-windows\Bai06.GeneratedMSBuildEditorConfig.editorconfig
+D:\IT008\ThucHanh\Myself\BTTL5\Bai06\Bai06\obj\Debug\net8.0-windows\Bai06.AssemblyInfoInputs.cache
+D:\IT008\ThucHanh\Myself\BTTL5\Bai06\Bai06\obj\Debug\net8.0-windows\Bai06.AssemblyInfo.cs
+D:\IT008\ThucHanh\Myself\BTTL5\Bai06\Bai06\obj\Debug\net8.0-windows\Bai06.csproj.CoreCompileInputs.cache
+D:\IT008\ThucHanh\Myself\BTTL5\Bai06\Bai06\obj\Debug\net8.0-windows\Bai06.dll
+D:\IT008\ThucHanh\Myself\BTTL5\Bai06\Bai06\obj\Debug\net8.0-windows\refint\Bai06.dll
+D:\IT008\ThucHanh\Myself\BTTL5\Bai06\Bai06\obj\Debug\net8.0-windows\Bai06.pdb
+D:\IT008\ThucHanh\Myself\BTTL5\Bai06\Bai06\obj\Debug\net8.0-windows\Bai06.genruntimeconfig.cache
+D:\IT008\ThucHanh\Myself\BTTL5\Bai06\Bai06\obj\Debug\net8.0-windows\ref\Bai06.dll
